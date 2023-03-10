@@ -5,16 +5,13 @@
 - 📫 Como chegar até mim:rafael.evan.rodrigues@gmail.com
 - ⚡ Curiosidade: ...
 - 💬Minhas certificações
--:round_pushpin:Java OO: Entendendo a Orientação a Objetos 8 horas
--:round_pushpin:Git E Github: Controle E Compartilhe Seu Código 6 horas.D
-OPA 
-  
--:round_pushpin:Java JRE e JDK: Compile E Execute O Seu Programa 8 horas
--:round_pushpin:
--:round_pushpin:
--:round_pushpin:
-
-- 
-- 
--
-- 
+-:round_pushpin:Git E Github: Controle E Compartilhe Seu Código Alura 
+-:round_pushpin:Java JRE e JDK: Compile E Execute O Seu Programa Alura
+-:round_pushpin:Lógica de programação I: os primeiros programas com Javascript e HTML Alura
+-:round_pushpin:Lógica de programação II: pratique com desenhos, animações e um jogo Alura
+-:round_pushpin:Java OO: Entendendo a Orientação a Objetos Alura
+-:round_pushpin:Java JRE e JDK: compile e execute o seu programa Alura
+-:round_pushpin:Produção de vídeo: o que há por trás do mundo do audiovisual Alura
+-:round_pushpin:Produção de vídeo: conceitos essenciais de uma produção audiovisual Alura 
+-:round_pushpin:Preparação para o Mundo do Trabalho Senac
+-:round_pushpin:Assistente Administrativo Senac

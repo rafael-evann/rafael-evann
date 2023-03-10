@@ -6,7 +6,8 @@
 - ⚡ Curiosidade: ...
 - 💬Minhas certificações
 -:round_pushpin:Java OO: Entendendo a Orientação a Objetos 8 horas
--:round_pushpin:Git E Github: Controle E Compartilhe Seu Código 6 horas.
+-:round_pushpin:Git E Github: Controle E Compartilhe Seu Código 6 horas.D
+OPA 
   
 -:round_pushpin:Java JRE e JDK: Compile E Execute O Seu Programa 8 horas
 -:round_pushpin:

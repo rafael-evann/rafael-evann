@@ -1,4 +1,4 @@
-### Olá!, Sou o Rafael Evangelista Rodrigues :smirk:
+### Olá!, Sou o Rafael Evangelista Rodrigues 😄
 - :mortar_board:Hoje estou cursando Informatica para Negocios 5° Semestre Fatec Mauá****
 - 🌱 Atualmente estou aprendendo Front-End <FordEnter> no Senai com parceria Ford Fund, Ford Brasil, Ford Academy e SENAI - SP.
 - 🤔 Estou procurando aprimorar meus conhecimentos em Front-End em  HTML, CSS e JavaScript, E Back-End Python, JavaScript, SQL e PHP.

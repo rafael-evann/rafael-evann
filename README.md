@@ -1,9 +1,8 @@
 ### Olá!, Sou o Rafael Evangelista Rodrigues 😄
 - :mortar_board: Hoje estou cursando Informatica para Negocios 6° Semestre Fatec Mauá****
-- 🌱 Atualmente estou aprendendo Front-End <FordEnter> no Senai com parceria Ford Fund, Ford Brasil, Ford Academy e SENAI - SP.
-- 🤔 Estou procurando aprimorar meus conhecimentos em Front-End em  HTML, CSS e JavaScript, E Back-End Python, JavaScript, SQL e PHP.
+- 🌱 Front-End <FordEnter> no Senai com parceria Ford Fund, Ford Brasil, Ford Academy e SENAI - SP.
+- 🤔 Estou procurando aprimorar meus conhecimentos em Front-End em  HTML, CSS e JavaScript, E Back-End Python, JavaScript, e SQL
 - 📫 Como chegar até mim: rafael.evan.rodrigues@gmail.com
-- ⚡ Curiosidade: ...
 - 💬Minhas certificações
 - :round_pushpin: Git E Github: Controle E Compartilhe Seu Código Alura 
 - :round_pushpin: Java JRE e JDK: Compile E Execute O Seu Programa Alura
